@@ -8,7 +8,7 @@ import axios from 'axios'
 import moment from 'moment-timezone' 
 
 global.owner = [
-  ['5219992095479', '👑 Mystic - Creador 👑', true],
+  ['1785837776', '👑 Mystic - Creador 👑', true],
   ['50499698072', '💫 Mystic - Collaborator 1 💫', true],
   ['51940617554', '💫 Mystic - Collaborator 2 💫', true],
   ['51996089079', '💫 Mystic - Collaborator 3 💫', true],
@@ -28,14 +28,14 @@ global.owner = [
   ['5214531106422']
 ] 
 
-global.suittag = ['5219993404349'] 
-global.prems = ['51995386439'] 
-global.reportes_solicitudes = ['5219992095479']
+global.suittag = ['17865837776'] 
+global.prems = ['17865837776'] 
+global.reportes_solicitudes = ['17865837776']
 
-global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
-global.wm = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
-global.igfg = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
+global.packname = '𝘾𝞗𝞛𝞛𝞓𝞜𝘿𝞢𝞒'
+global.author = '+92'
+global.wm = '𝘾𝞗𝞛𝞛𝞓𝞜𝘿𝞢𝞒'
+global.igfg = '𝘾𝞗𝞛𝞛𝞓𝞜𝘿𝞢𝞒'
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg')
